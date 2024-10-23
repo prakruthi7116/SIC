@@ -2,7 +2,7 @@
 //hello
 
 int main() {
-    char operator;
+    char operator;//pull
     double num1, num2, result;
 
     // Ask for user input
